@@ -1,0 +1,6 @@
+EVHO utility allows you to execute your current line in shell and echo the result
+
+usage: gec
+
+Author: foreverddong@icloud.com
+
